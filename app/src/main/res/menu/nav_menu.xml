@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/R.home.png"
+        android:icon="@drawable/home"
+        android:title="Home"
+        />
+
+    <item
+        android:id="@+id/R.morning.png"
+        android:icon="@drawable/morning"
+        android:title="Morning Routine"
+        />
+
+    <item
+        android:id="@+id/R.evening.png"
+        android:icon="@drawable/dusk"
+        android:title="Evening Routine"
+        />
+
+    <item
+        android:id="@+id/R.studytime.png"
+        android:icon="@drawable/studytime"
+        android:title="Study Routine"
+        />
+
+    <item
+        android:id="@+id/R.worktime.png"
+        android:icon="@drawable/worktime"
+        android:title="Work Routine"
+        />
+
+    <item
+        android:id="@+id/R.hobby.png"
+        android:icon="@drawable/hobby"
+        android:title="Hobbies"
+        />
+
+    <item
+        android:id="@+id/R.routine.png"
+        android:icon="@drawable/routine"
+        android:title="Complete Routine"
+        />
+
+
+
+</menu>
